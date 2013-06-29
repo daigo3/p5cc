@@ -3,3 +3,4 @@ libraries/*
 modes/*
 tools/*
 build-tmp/
+*.tga
